@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/udaya-38/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3945-digit-frequency-score](https://github.com/udaya-38/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/udaya-38/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
