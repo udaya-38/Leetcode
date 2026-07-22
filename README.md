@@ -65,4 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3701-compute-alternating-sum](https://github.com/udaya-38/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/udaya-38/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/udaya-38/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
