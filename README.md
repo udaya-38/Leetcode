@@ -10,6 +10,7 @@
 | [1089-duplicate-zeros](https://github.com/udaya-38/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/udaya-38/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -19,6 +20,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/udaya-38/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/udaya-38/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/udaya-38/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
@@ -40,6 +42,7 @@
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/udaya-38/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/udaya-38/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -66,6 +69,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
