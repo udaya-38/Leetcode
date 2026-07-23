@@ -38,6 +38,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/udaya-38/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -91,4 +92,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/udaya-38/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
