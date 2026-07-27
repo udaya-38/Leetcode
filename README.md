@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/udaya-38/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/udaya-38/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/udaya-38/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1089-duplicate-zeros](https://github.com/udaya-38/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/udaya-38/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/udaya-38/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/udaya-38/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/udaya-38/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/udaya-38/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
@@ -41,6 +43,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/udaya-38/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaya-38/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
