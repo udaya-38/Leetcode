@@ -133,4 +133,12 @@
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaya-38/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/udaya-38/Leetcode/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/udaya-38/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
