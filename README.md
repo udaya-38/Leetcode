@@ -17,6 +17,7 @@
 | [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/udaya-38/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/udaya-38/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -44,6 +45,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/udaya-38/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1089-duplicate-zeros](https://github.com/udaya-38/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/udaya-38/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +54,7 @@
 | [0389-find-the-difference](https://github.com/udaya-38/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaya-38/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/udaya-38/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Math
@@ -74,6 +77,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-38/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/udaya-38/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/udaya-38/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
