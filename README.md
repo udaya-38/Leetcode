@@ -16,6 +16,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/udaya-38/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/udaya-38/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/udaya-38/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/udaya-38/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -54,6 +55,7 @@
 | [0389-find-the-difference](https://github.com/udaya-38/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaya-38/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/udaya-38/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/udaya-38/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -154,4 +156,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/udaya-38/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/udaya-38/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/udaya-38/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 <!---LeetCode Topics End-->
