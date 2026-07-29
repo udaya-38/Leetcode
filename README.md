@@ -15,6 +15,7 @@
 | [1470-shuffle-the-array](https://github.com/udaya-38/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/udaya-38/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1816-truncate-sentence](https://github.com/udaya-38/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/udaya-38/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/udaya-38/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -149,6 +150,7 @@
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/udaya-38/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0796-rotate-string](https://github.com/udaya-38/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1816-truncate-sentence](https://github.com/udaya-38/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
