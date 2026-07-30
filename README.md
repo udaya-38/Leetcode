@@ -104,6 +104,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/udaya-38/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1603-design-parking-system](https://github.com/udaya-38/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/udaya-38/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -154,6 +155,7 @@
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/udaya-38/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/udaya-38/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/udaya-38/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/udaya-38/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/udaya-38/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 ## String Matching
