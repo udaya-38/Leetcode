@@ -94,6 +94,7 @@
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/udaya-38/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/udaya-38/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/udaya-38/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/udaya-38/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/udaya-38/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Counting
