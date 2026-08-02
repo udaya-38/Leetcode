@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/udaya-38/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-38/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/udaya-38/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1089-duplicate-zeros](https://github.com/udaya-38/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -67,6 +68,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -143,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/udaya-38/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -151,6 +154,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
