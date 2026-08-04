@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/udaya-38/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/udaya-38/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaya-38/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/udaya-38/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-38/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -42,6 +43,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/udaya-38/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/udaya-38/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaya-38/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/udaya-38/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -181,6 +183,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/udaya-38/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/udaya-38/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
