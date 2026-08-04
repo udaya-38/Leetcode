@@ -78,6 +78,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/udaya-38/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/udaya-38/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3360-stone-removal-game](https://github.com/udaya-38/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3516-find-closest-person](https://github.com/udaya-38/Leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/udaya-38/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3945-digit-frequency-score](https://github.com/udaya-38/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
@@ -119,6 +120,7 @@
 | [0657-robot-return-to-origin](https://github.com/udaya-38/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1603-design-parking-system](https://github.com/udaya-38/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3360-stone-removal-game](https://github.com/udaya-38/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/udaya-38/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
