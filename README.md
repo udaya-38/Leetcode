@@ -24,6 +24,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/udaya-38/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/udaya-38/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/udaya-38/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2942-find-words-containing-character](https://github.com/udaya-38/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -174,6 +175,7 @@
 | [0657-robot-return-to-origin](https://github.com/udaya-38/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/udaya-38/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/udaya-38/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
+| [2942-find-words-containing-character](https://github.com/udaya-38/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
