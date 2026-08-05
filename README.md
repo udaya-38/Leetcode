@@ -78,6 +78,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaya-38/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/udaya-38/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/udaya-38/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/udaya-38/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3360-stone-removal-game](https://github.com/udaya-38/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
