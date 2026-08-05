@@ -72,6 +72,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/udaya-38/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -170,6 +171,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/udaya-38/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0389-find-the-difference](https://github.com/udaya-38/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/udaya-38/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/udaya-38/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
