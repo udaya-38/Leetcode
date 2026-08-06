@@ -81,6 +81,7 @@
 | [2235-add-two-integers](https://github.com/udaya-38/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/udaya-38/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/udaya-38/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/udaya-38/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/udaya-38/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3516-find-closest-person](https://github.com/udaya-38/Leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/udaya-38/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -200,4 +201,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/udaya-38/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/udaya-38/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
