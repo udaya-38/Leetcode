@@ -29,6 +29,7 @@
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/udaya-38/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/udaya-38/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3360-stone-removal-game](https://github.com/udaya-38/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/udaya-38/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/udaya-38/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
