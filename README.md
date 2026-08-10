@@ -12,6 +12,7 @@
 | [0704-binary-search](https://github.com/udaya-38/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0908-smallest-range-i](https://github.com/udaya-38/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1089-duplicate-zeros](https://github.com/udaya-38/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/udaya-38/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/udaya-38/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [0908-smallest-range-i](https://github.com/udaya-38/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaya-38/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
