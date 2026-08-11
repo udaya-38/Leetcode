@@ -27,6 +27,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/udaya-38/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/udaya-38/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/udaya-38/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/udaya-38/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -70,6 +71,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/udaya-38/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/udaya-38/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/udaya-38/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -84,6 +86,7 @@
 | [2235-add-two-integers](https://github.com/udaya-38/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/udaya-38/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/udaya-38/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3024-type-of-triangle](https://github.com/udaya-38/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udaya-38/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/udaya-38/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3516-find-closest-person](https://github.com/udaya-38/Leetcode/tree/main/3516-find-closest-person/) | Easy |
@@ -211,4 +214,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udaya-38/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/udaya-38/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
