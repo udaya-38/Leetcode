@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/udaya-38/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/udaya-38/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaya-38/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/udaya-38/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0217-contains-duplicate](https://github.com/udaya-38/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-38/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/udaya-38/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -162,6 +163,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/udaya-38/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/udaya-38/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
