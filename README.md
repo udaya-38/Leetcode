@@ -92,6 +92,7 @@
 | [3360-stone-removal-game](https://github.com/udaya-38/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3516-find-closest-person](https://github.com/udaya-38/Leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/udaya-38/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3894-traffic-signal-color](https://github.com/udaya-38/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3945-digit-frequency-score](https://github.com/udaya-38/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -135,6 +136,7 @@
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3360-stone-removal-game](https://github.com/udaya-38/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/udaya-38/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3894-traffic-signal-color](https://github.com/udaya-38/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/udaya-38/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -191,6 +193,7 @@
 | [0796-rotate-string](https://github.com/udaya-38/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/udaya-38/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [2942-find-words-containing-character](https://github.com/udaya-38/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3894-traffic-signal-color](https://github.com/udaya-38/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
