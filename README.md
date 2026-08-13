@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/udaya-38/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/udaya-38/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0048-rotate-image](https://github.com/udaya-38/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaya-38/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/udaya-38/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0217-contains-duplicate](https://github.com/udaya-38/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -77,6 +78,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/udaya-38/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/udaya-38/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0908-smallest-range-i](https://github.com/udaya-38/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
@@ -223,4 +225,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3024-type-of-triangle](https://github.com/udaya-38/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/udaya-38/Leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
