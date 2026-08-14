@@ -30,6 +30,7 @@
 | [2942-find-words-containing-character](https://github.com/udaya-38/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/udaya-38/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/udaya-38/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/udaya-38/Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/udaya-38/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
