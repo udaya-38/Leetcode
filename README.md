@@ -81,6 +81,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/udaya-38/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/udaya-38/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/udaya-38/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0877-stone-game](https://github.com/udaya-38/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0908-smallest-range-i](https://github.com/udaya-38/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/udaya-38/Leetcode/tree/main/1025-divisor-game/) | Easy |
@@ -190,6 +191,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/udaya-38/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/udaya-38/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0389-find-the-difference](https://github.com/udaya-38/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/udaya-38/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/udaya-38/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
