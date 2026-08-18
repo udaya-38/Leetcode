@@ -33,6 +33,7 @@
 | [3024-type-of-triangle](https://github.com/udaya-38/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/udaya-38/Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/udaya-38/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/udaya-38/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/udaya-38/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/udaya-38/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -46,6 +47,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/udaya-38/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/udaya-38/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/udaya-38/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/udaya-38/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/udaya-38/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/udaya-38/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
